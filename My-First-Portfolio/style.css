@@ -1,0 +1,29 @@
+h1{
+   font: size 50px; ;
+}
+.colore{
+    color: rgb(247, 150, 4);
+}
+body{
+    font-family: sans-serif;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 5px;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
+    
+}
